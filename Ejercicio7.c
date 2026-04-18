@@ -15,6 +15,7 @@ int main()
     printf("\n%d", LUNES);
     printf("\n%i", MARTES);
     printf("\n%d", MIERCOLES);
-    printf("\n%i", JUEVES); printf("\n%d\n", VIERNES);
+    printf("\n%i", JUEVES); 
+    printf("\n%d\n", VIERNES);
   return 0;
 }
