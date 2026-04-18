@@ -5,7 +5,8 @@ int main()
     enum boolean {NO, YES};
   
     // declaración de una variable tipo enumeración
-    enum boolean valorBooleano; valorBooleano = YES;
+    enum boolean valorBooleano; 
+    valorBooleano = YES;
   
     // Se comprueba que el valor de una enumeración es entero
     printf("%d\n", valorBooleano);
